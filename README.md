@@ -9,4 +9,4 @@ The files in this package are described below:
 - randu : Function for generating uniform distribution numbers
 
 ### Cloning and Submodules
-Clone this repo as '+random_m' and add the containing dir to the Matlab path.
+Clone this repo as '+random' and add the containing dir to the Matlab path.
